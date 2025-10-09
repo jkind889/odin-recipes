@@ -1,4 +1,4 @@
-# odin-recipes]
+# odin-recipes
 
 This project is meant to be a website to showcase recipes as well as giving the instructions and steps for said recipes
 
